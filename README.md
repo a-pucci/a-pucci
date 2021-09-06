@@ -1,7 +1,5 @@
 ### Hello World 👋
 I am a Unity3D developer from Italy
-- 🔭 Gameplay and Editor developer
-- 🌱 Learning design patterns in depth
 
 ## Connect with me
 
