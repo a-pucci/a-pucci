@@ -14,6 +14,7 @@ I am a Unity3D developer from Italy
 ## Expertise
 <img align="left" alt="git" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 <img align="left" alt="unity" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="c#" src="ttps://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
 <!--
