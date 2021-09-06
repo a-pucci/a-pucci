@@ -7,7 +7,8 @@ I am a fullstack software engineer from bangladesh
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-pucci/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/a_pucci90)
-
+[<img align="left" alt="discord" src="https://img.shields.io/badge/%3CDISCORD%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://twitter.com/a_pucci90)
+https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white
 <br>
 
 ## Expertise
