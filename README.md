@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Unity3D developer from Italy
+I am a Unity developer from Italy
 
 ## Connect with me
 
