@@ -1,9 +1,10 @@
 ### Hello World 👋
 I am a Unity developer from Italy
 
+[a-pucci.it](https://a-pucci.it)
+
 ## Connect with me
 
-[a-pucci.it](https://a-pucci.it)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-pucci/)
 [<img align="left" alt="discord" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/281165951821545472/)
