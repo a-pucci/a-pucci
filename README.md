@@ -11,6 +11,7 @@ I am a Unity developer from Italy
 [<img align="left" alt="gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/a-pucci)
 [<img align="left" alt="mail" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:a_pucci@hotmail.it)
 <br>
+<br>
 
 ## Expertise
 <img align="left" alt="git" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
